@@ -1,2 +1,7 @@
-# continuous-inte-dep
-Some notes for Continuous Integration and Continuous Deployment
+# Welcome !
+
+## Continuous Integration
+Let's fo [here](ci.md)
+
+## Continuous Deployment
+Let's fo [here](cd.md)
