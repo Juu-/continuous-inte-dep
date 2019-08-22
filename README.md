@@ -1,7 +1,7 @@
 # Welcome !
 
 ## Continuous Integration
-Let's fo [here](ci.md)
+Let's go [here](ci.md)
 
 ## Continuous Deployment
-Let's fo [here](cd.md)
+Let's go [here](cd.md)
