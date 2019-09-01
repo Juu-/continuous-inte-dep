@@ -9,3 +9,7 @@ Let's have some fun [here](ci.md) !
 Continuous deployment (CD) is a software engineering approach in which software functionalities are delivered frequently through automated deployments. [wikipedia](https://en.wikipedia.org/wiki/Continuous_deployment)
 
 Let's have some fun [here](cd.md) !
+
+## Amazon Web Services
+
+Let's have some fun [here](aws.md) !
