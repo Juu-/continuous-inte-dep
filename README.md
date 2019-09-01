@@ -16,3 +16,5 @@ Let's have some fun [here](aws.md) !
 
 ## Kubernetes
 
+Let's have some fun [here](k8s.md) !
+
